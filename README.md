@@ -11,6 +11,8 @@ Through applying for IT internships and some readups online I also realised some
 
 I'm sure what I posed here definitely isn't everything there is about the libraries and there is a good chance that I may just be scratching the surface on the knowledge and the contents of these libraries. I'll keep learning as time goes on on what there is to know.
 
+Everything in Python is an object, noticed a lot of programming languages are object oriented, while only a few like C are solely using primitive data types like int float char etc, that are data with no attributes or properties (can put in GitHub readme)
+
 ## Repository directory description:
 Let's start with:
 1. Object Oriented Programming (OOP) Learning
