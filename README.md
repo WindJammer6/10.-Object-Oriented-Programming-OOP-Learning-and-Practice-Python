@@ -5,18 +5,15 @@ My learning journey of Object Orientated Programming (OOP) in Python.
 
 ![Semantic description of image](https://media.istockphoto.com/id/1257522431/vector/businessman-reach-out-for-the-stars-by-using-books-as-the-platform-describe-reach-successful.jpg?s=612x612&w=0&k=20&c=oaYDGOJ06ebcwxaF7FQkfT_ry8inGlJbmVZnGvZo5U4=)
 
-Back in my fifth project on Alarm Clock (no GUI) I mentioned that I discovered a new way to learn programming languages: Through the learning of libraries.
+I stumbled onto the OOP paradigm in programming while learning about Data Structures and Algorithms which was the intended new repository I wanted to put up (I'll post this learning journey in a later repository once its completed). However, when I ran into the description on how Linked Lists (Data Structure) are implemented (I believe this is the same for more complex Data Structures like Stack, Queue, Trees) I realised they make use heavily on Python's Class function (making of the 'Node' Class) which I have barely touched upon. Hence, I decided to take this detour to learn about OOP before getting back into learning about Data Strutures and Algorithms. (a very important concept all programmers must know!)
 
-Through applying for IT internships and some readups online I also realised some popular libraries that are a must-know as professional skills in Python in the working world. Said libraries include NumPy, Pandas and Matplotlib so here they are.
-
-I'm sure what I posed here definitely isn't everything there is about the libraries and there is a good chance that I may just be scratching the surface on the knowledge and the contents of these libraries. I'll keep learning as time goes on on what there is to know.
-
-Everything in Python is an object, noticed a lot of programming languages are object oriented, while only a few like C are solely using primitive data types like int float char etc, that are data with no attributes or properties (can put in GitHub readme)
+Another thing I found interesting is that out of the many programming languages that exist, many of them are purely (or are made up of a high composition) object oriented and this includes Python (purely object oriented), so everything in these programming language (such as data and its functions) are all essentially, objects (like how you create an object use Python's Class function). Only a few programming language such as C are not object oriented as they still use primitive data types such as ints, floats, char etc, which are data with no attributes or properties (hence not an object/Class).
 
 ## Repository directory description:
 Let's start with:
 1. Object Oriented Programming (OOP) Learning
 2. Object Oriented Programming (OOP) Practices
+3. class.py
 
 <br>
 
@@ -50,12 +47,20 @@ Practices done by myself. Solutions that look quite different from my answers (o
 
 <br>
 
+**3. class.py**
+
+My first file using Python's Classes and doing Object Oriented Programming, figured I'll put this simple file here as well (the code in here created a simple 'Car' Class).
+
+<br>
+
+<br>
+
 ## Thoughts after the learning journey
-Learnt some stuff surrounding the context behind these 3 libraries. Numpy serves as the base that Pandas and Matplotlib are built on. 
+A fairly short learning journey, with relatively simple practice done provided by PyNative. 
 
-An important thing I learnt through learning these Python Libraries is that as a programmer you are not expected to remember every single command and the context in a library since it is quite impossible, even for veteran coders. But I feel what makes them a veteran is that while coding they have this instinct that tells them that there is various possible ways/solutions to do the code/bug. Even if they can't remember the precise way to do it they can always google it up and find what they want. Beginners might not even know what they don't know, and I feel this is what seperates veteran from new programmers. So keep coding, in order to get this 'instinct' to improve your coding skills!
+Ibelieve that I have now a better grasp of Python's Class, SubClass, Property Decoratorsand other concepts relating to Object Oriented Programming.
 
-A handy way to search for a command/codes in a documentation you are looking for is through using the web's 'Word Search'. Example: You want to figure out how to label pie chart in Matplotlib, but don't know the command. You can simply word search label, and see if any 'Label' words pops up in the website either in the description of a code or if you're lucky, the command for label might just be 'Label'.
+I think to further work on my understanding of OOP I'll probably work on an OOP Python project that I hope to be able to upload it here soon before going to back to the Data Structures and Algorithm learning journey.
 
 <br>
 
