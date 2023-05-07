@@ -58,7 +58,7 @@ My first file using Python's Classes and doing Object Oriented Programming, figu
 ## Thoughts after the learning journey
 A fairly short learning journey, with relatively simple practice done provided by PyNative. 
 
-Ibelieve that I have now a better grasp of Python's Class, SubClass, Property Decoratorsand other concepts relating to Object Oriented Programming.
+I believe that I have now a better grasp of Python's Class, SubClass, Property Decoratorsand other concepts relating to Object Oriented Programming.
 
 I think to further work on my understanding of OOP I'll probably work on an OOP Python project that I hope to be able to upload it here soon before going to back to the Data Structures and Algorithm learning journey.
 
