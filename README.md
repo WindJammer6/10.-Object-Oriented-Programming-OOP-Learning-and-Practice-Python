@@ -9,17 +9,20 @@ I stumbled onto the OOP paradigm in programming while learning about Data Struct
 
 Another thing I found interesting is that out of the many programming languages that exist, many of them are purely (or are made up of a high composition) object oriented and this includes Python (purely object oriented), so everything in these programming language (such as data and its functions) are all essentially, objects (like how you create an object use Python's Class function). Only a few programming language such as C are not object oriented as they still use primitive data types such as ints, floats, char etc, which are data with no attributes or properties (hence not an object/Class).
 
-## Repository directory description:
-Let's start with:
-1. Object Oriented Programming (OOP) Learning
-2. Object Oriented Programming (OOP) Practices
-3. class.py
+## Table of Contents:
++ [Code Description](#codedescription)
+  1. [Object Oriented Programming (OOP) Learning](#ooplearning)
+  2. [Object Oriented Programming (OOP) Practices](#ooppractices)
+  3. [class.py](#class.py)
++ [Thoughts after the project](#thoughts)
 
 <br>
 
 <br>
 
-**1. Object Oriented Programming (OOP) Learning**
+## Code Description <a name = "codedescription"></a>
+
+### 1. Object Oriented Programming (OOP) Learning <a name = "ooplearning"></a>
 
 What is Object Oriented Programming (OOP)?
 
@@ -35,7 +38,7 @@ The code that I put into the 'Object_Oriented_Programming_(OOP)_learn' folder is
 
 <br>
 
-**2. Object Oriented Programming (OOP) Practices**
+### 2. Object Oriented Programming (OOP) Practices <a name = "ooppractices"></a>
 
 Source(s): https://pynative.com/python-object-oriented-programming-oop-exercise/ (PyNative)
 
@@ -47,7 +50,7 @@ Practices done by myself. Solutions that look quite different from my answers (o
 
 <br>
 
-**3. class.py**
+### 3. class.py <a name = "class.py"></a>
 
 My first file using Python's Classes and doing Object Oriented Programming, figured I'll put this simple file here as well (the code in here created a simple 'Car' Class).
 
@@ -55,7 +58,7 @@ My first file using Python's Classes and doing Object Oriented Programming, figu
 
 <br>
 
-## Thoughts after the learning journey
+## Thoughts after the learning journey <a name = "thoughts"></a>
 A fairly short learning journey, with relatively simple practice done provided by PyNative. 
 
 I believe that I have now a better grasp of Python's Class, SubClass, Property Decoratorsand other concepts relating to Object Oriented Programming.
