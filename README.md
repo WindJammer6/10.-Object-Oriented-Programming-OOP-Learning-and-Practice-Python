@@ -14,7 +14,7 @@ Another thing I found interesting is that out of the many programming languages 
   1. [Object Oriented Programming (OOP) Learning](#ooplearning)
   2. [Object Oriented Programming (OOP) Practices](#ooppractices)
   3. [class.py](#class.py)
-+ [Thoughts after the project](#thoughts)
++ [Thoughts after the learning journey](#thoughts)
 
 <br>
 
