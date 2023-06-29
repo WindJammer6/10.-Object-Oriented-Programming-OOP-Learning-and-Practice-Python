@@ -33,12 +33,12 @@ OOP Documentation: https://docs.python.org/3/tutorial/classes.html
 Source(s): https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc (Corey Schafer) 
 
 The code that I put into the 'Object_Oriented_Programming_(OOP)_learn' folder is taken from and in order of this playlist's contents, covering the following OOP concepts split into the sub-folders:
-  1. Tutorial 1 - Classes and Class Instances
-  2. Tutorial 2 - Class Variables
-  3. Tutorial 3 - Class Method and Static Method
-  4. Tutorial 4 - Inheritance - Creating Subclasses
-  5. Tutorial 5 - Special (Magic or Dunder) Methods
-  6. Tutorial 6 - Property Decoraters - Getters, Setters and Deleters
+  + Tutorial 1 - Classes and Class Instances
+  + Tutorial 2 - Class Variables
+  + Tutorial 3 - Class Method and Static Method
+  + Tutorial 4 - Inheritance - Creating Subclasses
+  + Tutorial 5 - Special (Magic or Dunder) Methods
+  + Tutorial 6 - Property Decoraters - Getters, Setters and Deleters
 
 <br>
 
