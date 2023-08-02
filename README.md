@@ -2,9 +2,6 @@
 My learning journey of Object Orientated Programming (OOP) in Python.
 
 ## Thoughts on starting this learning journey
-
-![Semantic description of image](https://media.istockphoto.com/id/1257522431/vector/businessman-reach-out-for-the-stars-by-using-books-as-the-platform-describe-reach-successful.jpg?s=612x612&w=0&k=20&c=oaYDGOJ06ebcwxaF7FQkfT_ry8inGlJbmVZnGvZo5U4=)
-
 I stumbled onto the OOP paradigm in programming while learning about Data Structures and Algorithms which was the intended new repository I wanted to put up (I'll post this learning journey in a later repository once its completed). However, when I ran into the description on how Linked Lists (Data Structure) are implemented (I believe this is the same for more complex Data Structures like Stack, Queue, Trees) I realised they make use heavily on Python's Class function (making of the 'Node' Class) which I have barely touched upon. Hence, I decided to take this detour to learn about OOP before getting back into learning about Data Strutures and Algorithms. (a very important concept all programmers must know!)
 
 Another thing I found interesting is that out of the many programming languages that exist, many of them are purely (or are made up of a high composition) object oriented and this includes Python (purely object oriented), so everything in these programming language (such as data and its functions) are all essentially, objects (like how you create an object use Python's Class function). Only a few programming language such as C are not object oriented as they still use primitive data types such as ints, floats, char etc, which are data with no attributes or properties (hence not an object/Class).
