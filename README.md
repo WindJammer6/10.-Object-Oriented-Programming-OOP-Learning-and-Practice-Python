@@ -6,6 +6,8 @@ I stumbled onto the OOP paradigm in programming while learning about Data Struct
 
 Another thing I found interesting is that out of the many programming languages that exist, many of them are purely (or are made up of a high composition) object oriented and this includes Python (purely object oriented), so everything in these programming language (such as data and its functions) are all essentially, objects (like how you create an object use Python's Class function). Only a few programming language such as C are not object oriented as they still use primitive data types such as ints, floats, char etc, which are data with no attributes or properties (hence not an object/Class).
 
+<br>
+
 ## Table of Contents:
 + [Code Description](#codedescription)
   1. [Object Oriented Programming (OOP) Learning](#ooplearning)
@@ -21,9 +23,8 @@ Another thing I found interesting is that out of the many programming languages 
 
 ### 1. Object Oriented Programming (OOP) Learning <a name = "ooplearning"></a>
 
-What is Object Oriented Programming (OOP)?
-
-From online: "Object Oriented Programming (OOP) is a computer programming paradigm that organizes software design around data, or objects, rather than functions and logic."
+What is Object Oriented Programming (OOP)?  
+Object Oriented Programming (OOP) is a computer programming paradigm that organizes software design around data, or objects, rather than functions and logic.
 
 OOP Documentation: https://docs.python.org/3/tutorial/classes.html
 
